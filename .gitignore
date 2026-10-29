@@ -1,0 +1,11 @@
+# system files
+.DS_Store
+
+# local tooling, not part of the website
+.claude/
+.agents/
+.impeccable/
+
+# private documents (only the resume is kept)
+docs/*
+!docs/Bhimesh Resume Q3.pdf

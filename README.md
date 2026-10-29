@@ -2,7 +2,7 @@
 
 **Advocate (Bar Council of India) focused on U.S. employment-based immigration law.**
 
-Website: https://csngh.github.io/
+Website: https://bhimeshsingh.github.io/
 
 ## About
 
@@ -34,7 +34,3 @@ He began in Indian litigation, drafting pleadings, affidavits and legal notices 
 ## Disclaimer
 
 Bhimesh Singh is an Advocate enrolled with the Bar Council of India and is not admitted to practice law in the United States. Nothing on this website is legal advice or creates an attorney-client relationship. Prior results do not guarantee a similar outcome, and every case is decided on its own facts.
-
-## About this repo
-
-Static site (HTML, CSS, JS) served with GitHub Pages. To preview locally, run `python3 -m http.server 8000` and open http://localhost:8000/.
