@@ -15,13 +15,13 @@ He began in Indian litigation, drafting pleadings, affidavits and legal notices 
 - **2026 to now:** Lawyer, U.S. Immigration, stealth startup (California)
 - **2026 to now:** Legal Consultant, Topmate (mentoring)
 - **2025 to 2026:** Team Lead Manager and Lawyer, U.S. Immigration, Stealth Law Firm (19+ successful petitions)
-- **2025:** Legal Sales Associate, Legal Kapital
+- **2025:** Legal Associate, Legal Kapital
 - **2023 to 2025:** Advocate and Legal Assistant, Surat District and Sessions Court
 - **2022 to 2023:** Project Executive, Google (client engagement)
 
 ## Education
 
-- LL.M., The Maharaja Sayajirao University of Baroda (2021 to 2023)
+- LL.M., International and Cross-border Law (2021 to 2023)
 - B.Com LL.B. (Hons), Veer Narmad South Gujarat University, Surat (2016 to 2021)
 
 ## Connect

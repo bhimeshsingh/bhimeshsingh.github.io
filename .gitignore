@@ -9,3 +9,7 @@
 # private documents (only the resume is kept)
 docs/*
 !docs/Bhimesh Resume Q3.pdf
+
+# resume is not published on the site
+assets/*.pdf
+docs/*.pdf
